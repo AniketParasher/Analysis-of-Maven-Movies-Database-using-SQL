@@ -2,6 +2,8 @@
 Purpose: Using SQL query to analyze the Maven movies database, to draw insights from the dataset, finding the patterns and answering the questions.
 Copying the SQL code to new SQL tab of Workbench and executing it
 
+Following are the questions to answer:
+
 QUESTION 1: Write a SQL query to count the number of characters except for the spaces for each actor. 
 Return the first 10 actors' name lengths along with their names.
 
