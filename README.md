@@ -1,5 +1,5 @@
 # Analysis-of-Maven-Movies-Database
-Purpose: Using SQL query to analysis the Maven movies database, to draw insights from the dataset, finding the patterns and answering the questions.
+Purpose: Using SQL query to analyze the Maven movies database, to draw insights from the dataset, finding the patterns and answering the questions.
 Copying the SQL code to new SQL tab of Workbench and executing it
 
 QUESTION 1: Write a SQL query to count the number of characters except for the spaces for each actor. 
