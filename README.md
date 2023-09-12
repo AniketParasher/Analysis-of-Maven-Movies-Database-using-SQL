@@ -4,6 +4,8 @@ Copying the SQL code to new SQL tab of Workbench and executing it
 
 Following are the questions to answer:
 
+Used concepts like Wildcards, where and limit clause, joins, order by, group by, length, date and concat functions.
+
 QUESTION 1: Write a SQL query to count the number of characters except for the spaces for each actor. 
 Return the first 10 actors' name lengths along with their names.
 
